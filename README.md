@@ -7,8 +7,8 @@ Esta aplicação faz parte do desafio 05 do bootcamp da RocketSeat. O proposito 
 #### Instalação
 
 ```
-git clone git@github.com:LuisFfer12/desafio04-bootcamp-gostack.git
-cd desafio04-bootcamp-gostack
+git clone git@github.com:LuisFfer12/desafio05-bootcamp-gostack.git
+cd desafio05-bootcamp-gostack
 yarn
 ```
 
